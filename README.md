@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a text-based (or potentially GUI-based, depending on your implementation) Zombie survival game built using Java. The goal is to survive as long as possible against waves of zombies, manage resources, and make strategic decisions to stay alive.
+This is a text-based (or potentially GUI-based, depending on your implementation) Zombie survival game built using Java.This project was originally developed for a school assignment.
 
 ## Features
 
